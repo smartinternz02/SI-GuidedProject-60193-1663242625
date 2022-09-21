@@ -7,7 +7,7 @@ Google Supported Virtual Internship - Android Application Development Using Kotl
 
 Project - Grocery Android App This Project is a part of Google Supported Virtual Internship - Android App Development Using Kotlin.
 
-project documentation link-https://docs.google.com/document/d/1JZqOdlBPZYgpo04Df6-9Oip6l8qXn5Hp/edit?usp=drivesdk&ouid=103113246371366661158&rtpof=true&sd=true
+project documentation link-https://docs.google.com/document/d/1JZqOdlBPZYgpo04Df6-9Oip6l8qXn5Hp/edit?usp=sharing&ouid=103113246371366661158&rtpof=true&sd=true
 
 github project link-https://github.com/smartinternz02/SI-GuidedProject-60193-1663242625/tree/main/Grocery-Android-App-master/Grocery-Android-App-master
 
